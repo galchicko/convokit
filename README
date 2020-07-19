@@ -1,0 +1,22 @@
+Initial Configuration
+
+
+Step 0 - Install Python
+
+https://www.python.org/downloads/
+and make sure version is 3.6 or above (current is 3.8.?)
+
+
+Step 1 - Virtual Environment
+
+activate virtual environment
+https://docs.python.org/3/library/venv.html
+
+then run:
+pip install -r requirements.txt
+
+
+Step 2 - Download Corpora
+
+run 'python3' to enter interpreter mode
+then, with
